@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 18 Feb 2026 02:55:07 +0000
+# Last converted - Thu, 19 Feb 2026 02:54:15 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -123652,7 +123652,6 @@
 0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 eventlog.gryphline.com
 0.0.0.0 native-log-collect.gryphline.com
-0.0.0.0 data-p.gryphline.com
 0.0.0.0 fp-sa-it.fengkongcloud.com
 0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 ir-sdk.guardease.com
