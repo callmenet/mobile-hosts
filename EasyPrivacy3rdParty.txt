@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 14 Feb 2026 02:47:10 +0000
+# Last converted - Thu, 19 Feb 2026 02:54:16 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -659,6 +659,7 @@
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 live.exchangesolutions.com
 0.0.0.0 livecounter.theyosh.nl
+0.0.0.0 livesearch-metrics.magento-ds.com
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 lma.npaw.com
 0.0.0.0 loader-cdn.azureedge.net
