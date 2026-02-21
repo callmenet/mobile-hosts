@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 20 Feb 2026 02:49:16 +0000
+# Last converted - Sat, 21 Feb 2026 02:43:03 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -123635,6 +123635,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 tracking.twelveapp.sh
 0.0.0.0 trkcliq.com
 0.0.0.0 stats.norton.com
 0.0.0.0 log1.cmpassport.com
